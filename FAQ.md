@@ -106,8 +106,8 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 易读易写   
 
 ## Markdown用途   
-写博客、编写文档说明、   
-Markdown编辑工具   
+写博客、编写文档说明、   
+## Markdown编辑工具  
 ### Windows 平台   
 GitHub Atom   
 MarkdownPad  
